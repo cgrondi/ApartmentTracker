@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #eee;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: red;
+}
+
+#root {
+  display: flex;
+  flex: 1;
+}
+#page-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+#content-container {
+  flex: 2;
+}
+#apartment {
+  margin: 2%;
+  padding: 2%;
+  border: 2px solid black;
+  background: white;
+}
+#apartment h3 {
+  padding: 3%;
+  background: rgba(204, 204, 204, 0.8);
+}
+#apartment ul {
+  padding-left: 2%;
+}
+.pros {
+  color: green;
+}
+.cons {
+  color: red;
+}
+
+footer {
+  color: #ccc;
+}
+#footer-container {
+  margin: 20px 0 10px 0;
+  align-self: center;
+}

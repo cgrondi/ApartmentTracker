@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/github.io/apartment-tracker/static/js/main.52b47c5f.chunk.js",
+    "main.js.map": "/github.io/apartment-tracker/static/js/main.52b47c5f.chunk.js.map",
+    "runtime-main.js": "/github.io/apartment-tracker/static/js/runtime-main.952fda33.js",
+    "runtime-main.js.map": "/github.io/apartment-tracker/static/js/runtime-main.952fda33.js.map",
+    "static/js/2.47e251b6.chunk.js": "/github.io/apartment-tracker/static/js/2.47e251b6.chunk.js",
+    "static/js/2.47e251b6.chunk.js.map": "/github.io/apartment-tracker/static/js/2.47e251b6.chunk.js.map",
+    "index.html": "/github.io/apartment-tracker/index.html",
+    "static/js/2.47e251b6.chunk.js.LICENSE.txt": "/github.io/apartment-tracker/static/js/2.47e251b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.952fda33.js",
+    "static/js/2.47e251b6.chunk.js",
+    "static/js/main.52b47c5f.chunk.js"
+  ]
+}
